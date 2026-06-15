@@ -77,9 +77,5 @@ flowchart TD
 - To test, compile the target program and run it with the sample `input.txt` in the same folder.
 - If you add new test cases, please place them alongside the corresponding lab folder and update this README.
 
-## License & Author
-- Author: Repository owner
-- License: Not specified — add a LICENSE file if you want an explicit license.
-
 ---
 Created to provide clear build/run instructions and design notes for the included assembler and lexical analysis labs.
