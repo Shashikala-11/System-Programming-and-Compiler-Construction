@@ -1,0 +1,7 @@
+A DC 1
+B DC 2
+C DC 3
+- LDA A
+- ADD B
+LOOP SUB C
+- JMP LOOP

@@ -1,0 +1,8 @@
+; Sample macro input for lab02
+MACRO INCR &ARG
+ADD &ARG, ='1'
+MEND
+
+START 0
+INCR AREG
+END

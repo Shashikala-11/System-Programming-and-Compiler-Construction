@@ -1,0 +1,5 @@
+START
+ADD A
+SUB B
+MEND
+END
